@@ -1,0 +1,21 @@
+#container {
+    background: url("../img/fondo-escritorio-moderno-vector-diseno-azul-geometrico_53876-135923.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.form {
+
+    border-radius: 20px;
+    background: linear-gradient(145deg, #600e7b46, #70119331);
+    box-shadow: 11px 11px 22px #550d6f6e,
+        -11px -11px 22px #7d13a365;
+}
+
+
+.btn {
+    background-color: rgb(69, 17, 112);
+    color: white;
+}
